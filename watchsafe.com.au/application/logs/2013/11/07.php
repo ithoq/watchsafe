@@ -1,0 +1,20 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-11-07 00:04:22 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 02:16:59 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 02:17:47 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 02:18:13 --- ERROR: Swift_TransportException [ 0 ]: Failed to authenticate on SMTP server with username "watchsafegps@gmail.com" using 2 possible authenticators ~ MODPATH/email/vendor/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php [ 184 ]
+2013-11-07 02:18:23 --- ERROR: Swift_TransportException [ 0 ]: Failed to authenticate on SMTP server with username "watchsafegps@gmail.com" using 2 possible authenticators ~ MODPATH/email/vendor/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php [ 184 ]
+2013-11-07 02:18:34 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 02:19:34 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 02:20:23 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 02:40:28 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 02:42:39 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 02:43:27 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 08:04:24 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 09:12:32 --- ERROR: Swift_TransportException [ 0 ]: Expected response code 250 but got code "421", with message "421 4.7.0 Temporary System Problem.  Try again later (MU). w6sm5422915eeo.12 - gsmtp
+" ~ MODPATH/email/vendor/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php [ 386 ]
+2013-11-07 09:51:39 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 09:52:16 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 09:55:53 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]
+2013-11-07 09:56:30 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 78 ]

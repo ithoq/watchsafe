@@ -1,0 +1,26 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-07-10 00:26:04 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-10 00:33:15 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-10 02:09:34 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-10 02:12:40 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-10 02:26:17 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-10 08:54:42 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-10 13:31:25 --- ERROR: Error reading session data: 
+2013-07-10 13:31:26 --- ERROR: Error reading session data: 
+2013-07-10 13:31:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 13:31:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-07-10 14:05:33 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-10 14:13:05 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-10 14:23:50 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]

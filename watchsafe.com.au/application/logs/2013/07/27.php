@@ -1,0 +1,17 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-07-27 06:43:38 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 06:45:33 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 06:48:13 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 06:49:53 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 06:57:00 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 08:56:06 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 08:57:16 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 09:03:15 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 09:50:45 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 09:51:57 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 09:55:32 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 09:57:59 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 09:58:48 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 10:49:34 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]
+2013-07-27 10:52:14 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 69 ]

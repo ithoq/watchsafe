@@ -1,0 +1,30 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2014-06-07 10:36:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2014-06-07 10:36:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon.png ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2014-06-07 10:36:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2014-06-07 10:36:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon.png ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2014-06-07 11:46:28 --- ERROR: Error reading session data: 
+2014-06-07 14:47:05 --- ERROR: Error reading session data: 
+2014-06-07 14:47:05 --- ERROR: Error reading session data: 
+2014-06-07 15:53:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: info@email.com ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2014-06-07 20:33:43 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 20:42:06 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 20:44:01 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 20:55:18 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 20:58:14 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 21:26:39 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 21:37:40 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 21:38:15 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 21:43:01 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 21:44:43 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 21:45:37 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 21:48:07 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2014-06-07 21:48:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon.png ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2014-06-07 22:20:36 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 22:27:08 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 22:31:29 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 22:33:06 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 22:36:29 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 22:36:52 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]
+2014-06-07 23:09:40 --- ERROR: ErrorException [ 8 ]: Undefined index: data ~ APPPATH/classes/controller/ajax.php [ 130 ]

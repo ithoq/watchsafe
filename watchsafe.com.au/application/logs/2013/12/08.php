@@ -1,0 +1,811 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-12-08 09:26:06 --- ERROR: Error reading session data: 
+2013-12-08 09:26:10 --- ERROR: Error reading session data: 
+2013-12-08 09:26:11 --- ERROR: Error reading session data: 
+2013-12-08 09:26:15 --- ERROR: Error reading session data: 
+2013-12-08 09:26:16 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:16 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:16 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:18 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:18 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:18 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:25 --- ERROR: Error reading session data: 
+2013-12-08 09:26:28 --- ERROR: Error reading session data: 
+2013-12-08 09:26:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:31 --- ERROR: Error reading session data: 
+2013-12-08 09:26:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:34 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:34 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:35 --- ERROR: Error reading session data: 
+2013-12-08 09:26:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:38 --- ERROR: Error reading session data: 
+2013-12-08 09:26:39 --- ERROR: Error reading session data: 
+2013-12-08 09:26:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:41 --- ERROR: Error reading session data: 
+2013-12-08 09:26:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:52 --- ERROR: Error reading session data: 
+2013-12-08 09:26:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:56 --- ERROR: Error reading session data: 
+2013-12-08 09:26:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:26:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:00 --- ERROR: Error reading session data: 
+2013-12-08 09:27:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:07 --- ERROR: Error reading session data: 
+2013-12-08 09:27:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:10 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:10 --- ERROR: Error reading session data: 
+2013-12-08 09:27:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:19 --- ERROR: Error reading session data: 
+2013-12-08 09:27:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:39 --- ERROR: Error reading session data: 
+2013-12-08 09:27:39 --- ERROR: Error reading session data: 
+2013-12-08 09:27:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:43 --- ERROR: Error reading session data: 
+2013-12-08 09:27:44 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:46 --- ERROR: Error reading session data: 
+2013-12-08 09:27:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 09:27:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:50:53 --- ERROR: Error reading session data: 
+2013-12-08 11:50:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:50:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:50:57 --- ERROR: Error reading session data: 
+2013-12-08 11:50:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:50:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:51:03 --- ERROR: Error reading session data: 
+2013-12-08 11:51:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:51:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:19 --- ERROR: Error reading session data: 
+2013-12-08 11:52:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:24 --- ERROR: Error reading session data: 
+2013-12-08 11:52:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:52:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:55:53 --- ERROR: Error reading session data: 
+2013-12-08 11:55:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:55:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:55:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:55:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:55:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:55:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:55:59 --- ERROR: Error reading session data: 
+2013-12-08 11:56:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:56:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:56:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:56:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:56:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:56:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:56:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:56:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:56:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:56:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:56:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:39 --- ERROR: Error reading session data: 
+2013-12-08 11:57:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:46 --- ERROR: Error reading session data: 
+2013-12-08 11:57:52 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:52 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:57:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:43 --- ERROR: Error reading session data: 
+2013-12-08 11:59:44 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:45 --- ERROR: Error reading session data: 
+2013-12-08 11:59:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:49 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:49 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:52 --- ERROR: Error reading session data: 
+2013-12-08 11:59:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:57 --- ERROR: Error reading session data: 
+2013-12-08 11:59:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 11:59:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 12:00:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 12:00:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 12:00:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 12:00:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 12:00:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 13:42:08 --- ERROR: Error reading session data: 
+2013-12-08 13:42:27 --- ERROR: Error reading session data: 
+2013-12-08 13:49:35 --- ERROR: Error reading session data: 
+2013-12-08 13:49:35 --- ERROR: Error reading session data: 
+2013-12-08 13:49:38 --- ERROR: Error reading session data: 
+2013-12-08 13:49:42 --- ERROR: Error reading session data: 
+2013-12-08 13:49:46 --- ERROR: Error reading session data: 
+2013-12-08 13:49:48 --- ERROR: Error reading session data: 
+2013-12-08 13:49:50 --- ERROR: Error reading session data: 
+2013-12-08 13:50:04 --- ERROR: Error reading session data: 
+2013-12-08 13:50:10 --- ERROR: Error reading session data: 
+2013-12-08 13:51:54 --- ERROR: Error reading session data: 
+2013-12-08 13:51:55 --- ERROR: Error reading session data: 
+2013-12-08 13:54:21 --- ERROR: Error reading session data: 
+2013-12-08 13:54:22 --- ERROR: Error reading session data: 
+2013-12-08 13:55:55 --- ERROR: Error reading session data: 
+2013-12-08 13:57:57 --- ERROR: Error reading session data: 
+2013-12-08 13:57:58 --- ERROR: Error reading session data: 
+2013-12-08 13:58:00 --- ERROR: Error reading session data: 
+2013-12-08 13:58:06 --- ERROR: Error reading session data: 
+2013-12-08 13:58:10 --- ERROR: Error reading session data: 
+2013-12-08 13:58:12 --- ERROR: Error reading session data: 
+2013-12-08 13:58:19 --- ERROR: Error reading session data: 
+2013-12-08 13:58:22 --- ERROR: Error reading session data: 
+2013-12-08 13:58:24 --- ERROR: Error reading session data: 
+2013-12-08 13:58:26 --- ERROR: Error reading session data: 
+2013-12-08 13:59:56 --- ERROR: Error reading session data: 
+2013-12-08 13:59:58 --- ERROR: Error reading session data: 
+2013-12-08 14:00:03 --- ERROR: Error reading session data: 
+2013-12-08 14:00:09 --- ERROR: Error reading session data: 
+2013-12-08 14:00:11 --- ERROR: Swift_TransportException [ 0 ]: Failed to authenticate on SMTP server with username "watchsafegps@gmail.com" using 2 possible authenticators ~ MODPATH/email/vendor/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php [ 184 ]
+2013-12-08 14:07:12 --- ERROR: Error reading session data: 
+2013-12-08 14:07:15 --- ERROR: Swift_TransportException [ 0 ]: Failed to authenticate on SMTP server with username "watchsafegps@gmail.com" using 2 possible authenticators ~ MODPATH/email/vendor/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php [ 184 ]
+2013-12-08 14:19:37 --- ERROR: Error reading session data: 
+2013-12-08 14:19:40 --- ERROR: Swift_TransportException [ 0 ]: Failed to authenticate on SMTP server with username "watchsafegps@gmail.com" using 2 possible authenticators ~ MODPATH/email/vendor/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php [ 184 ]
+2013-12-08 14:30:34 --- ERROR: Error reading session data: 
+2013-12-08 14:30:37 --- ERROR: Error reading session data: 
+2013-12-08 14:30:41 --- ERROR: Error reading session data: 
+2013-12-08 14:30:49 --- ERROR: Error reading session data: 
+2013-12-08 14:30:51 --- ERROR: Swift_TransportException [ 0 ]: Failed to authenticate on SMTP server with username "watchsafegps@gmail.com" using 2 possible authenticators ~ MODPATH/email/vendor/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php [ 184 ]
+2013-12-08 14:43:40 --- ERROR: Error reading session data: 
+2013-12-08 14:43:51 --- ERROR: Error reading session data: 
+2013-12-08 14:43:54 --- ERROR: Error reading session data: 
+2013-12-08 14:43:56 --- ERROR: Swift_TransportException [ 0 ]: Failed to authenticate on SMTP server with username "watchsafegps@gmail.com" using 2 possible authenticators ~ MODPATH/email/vendor/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php [ 184 ]
+2013-12-08 14:47:51 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: robots.txt ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 14:48:09 --- ERROR: Error reading session data: 
+2013-12-08 14:48:16 --- ERROR: Error reading session data: 
+2013-12-08 14:48:18 --- ERROR: Error reading session data: 
+2013-12-08 14:48:20 --- ERROR: Swift_TransportException [ 0 ]: Failed to authenticate on SMTP server with username "watchsafegps@gmail.com" using 2 possible authenticators ~ MODPATH/email/vendor/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php [ 184 ]
+2013-12-08 14:48:45 --- ERROR: Error reading session data: 
+2013-12-08 14:48:46 --- ERROR: Error reading session data: 
+2013-12-08 14:51:12 --- ERROR: Error reading session data: 
+2013-12-08 14:51:19 --- ERROR: Error reading session data: 
+2013-12-08 15:03:07 --- ERROR: Error reading session data: 
+2013-12-08 15:03:13 --- ERROR: Error reading session data: 
+2013-12-08 15:03:15 --- ERROR: Error reading session data: 
+2013-12-08 15:03:22 --- ERROR: Error reading session data: 
+2013-12-08 15:07:22 --- ERROR: Error reading session data: 
+2013-12-08 15:07:23 --- ERROR: Error reading session data: 
+2013-12-08 15:07:43 --- ERROR: Error reading session data: 
+2013-12-08 15:07:44 --- ERROR: Error reading session data: 
+2013-12-08 15:07:47 --- ERROR: Error reading session data: 
+2013-12-08 15:07:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:49 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:50 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:50 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:50 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:51 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:52 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:07:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:08 --- ERROR: Error reading session data: 
+2013-12-08 15:08:11 --- ERROR: Error reading session data: 
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:14 --- ERROR: Error reading session data: 
+2013-12-08 15:08:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:15 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:15 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:15 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:15 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:15 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:16 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:16 --- ERROR: Error reading session data: 
+2013-12-08 15:08:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:18 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:18 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:18 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:19 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:19 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:19 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:25 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:53 --- ERROR: Error reading session data: 
+2013-12-08 15:08:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:55 --- ERROR: Error reading session data: 
+2013-12-08 15:08:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:08:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:09:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:09:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:09:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:09:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:09:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:09:04 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:09:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:09:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:09:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:09:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:16:33 --- ERROR: Error reading session data: 
+2013-12-08 15:36:18 --- ERROR: Error reading session data: 
+2013-12-08 15:36:19 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:25 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:38 --- ERROR: Error reading session data: 
+2013-12-08 15:36:38 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:40 --- ERROR: Error reading session data: 
+2013-12-08 15:36:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:43 --- ERROR: Error reading session data: 
+2013-12-08 15:36:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:44 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:45 --- ERROR: Error reading session data: 
+2013-12-08 15:36:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:47 --- ERROR: Error reading session data: 
+2013-12-08 15:36:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:49 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:49 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:50 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:50 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:52 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:54 --- ERROR: Error reading session data: 
+2013-12-08 15:36:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:36:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:37:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:37:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:37:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:37:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:37:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 15:44:41 --- ERROR: Error reading session data: 
+2013-12-08 15:44:54 --- ERROR: Error reading session data: 
+2013-12-08 15:44:54 --- ERROR: Error reading session data: 
+2013-12-08 15:44:58 --- ERROR: Error reading session data: 
+2013-12-08 15:45:02 --- ERROR: Error reading session data: 
+2013-12-08 16:02:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: robots.txt ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 16:04:08 --- ERROR: Error reading session data: 
+2013-12-08 16:18:08 --- ERROR: Error reading session data: 
+2013-12-08 16:18:08 --- ERROR: Error reading session data: 
+2013-12-08 16:33:01 --- ERROR: Error reading session data: 
+2013-12-08 16:33:04 --- ERROR: Error reading session data: 
+2013-12-08 16:38:16 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: robots.txt ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 16:39:26 --- ERROR: Error reading session data: 
+2013-12-08 17:11:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: robots.txt ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 17:20:09 --- ERROR: Error reading session data: 
+2013-12-08 18:48:02 --- ERROR: Error reading session data: 
+2013-12-08 18:48:03 --- ERROR: Error reading session data: 
+2013-12-08 18:48:12 --- ERROR: Error reading session data: 
+2013-12-08 18:48:19 --- ERROR: Error reading session data: 
+2013-12-08 18:48:20 --- ERROR: Error reading session data: 
+2013-12-08 18:48:27 --- ERROR: Error reading session data: 
+2013-12-08 18:48:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:29 --- ERROR: Error reading session data: 
+2013-12-08 18:48:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:32 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:34 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:35 --- ERROR: Error reading session data: 
+2013-12-08 18:48:35 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:38 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:38 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:38 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:44 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:52 --- ERROR: Error reading session data: 
+2013-12-08 18:48:52 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:58 --- ERROR: Error reading session data: 
+2013-12-08 18:48:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:48:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:04 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:07 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:10 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:11 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:20 --- ERROR: Error reading session data: 
+2013-12-08 18:49:21 --- ERROR: Error reading session data: 
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:25 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:25 --- ERROR: Error reading session data: 
+2013-12-08 18:49:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:28 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:32 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:34 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:35 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:38 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:54 --- ERROR: Error reading session data: 
+2013-12-08 18:49:54 --- ERROR: Error reading session data: 
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:58 --- ERROR: Error reading session data: 
+2013-12-08 18:49:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:49:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:04 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 18:50:10 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 19:42:57 --- ERROR: Error reading session data: 
+2013-12-08 22:39:47 --- ERROR: Error reading session data: 
+2013-12-08 22:42:39 --- ERROR: Error reading session data: 
+2013-12-08 22:42:54 --- ERROR: Error reading session data: 
+2013-12-08 22:44:45 --- ERROR: Error reading session data: 
+2013-12-08 22:44:45 --- ERROR: Error reading session data: 
+2013-12-08 22:44:47 --- ERROR: Error reading session data: 
+2013-12-08 22:44:50 --- ERROR: Error reading session data: 
+2013-12-08 22:45:02 --- ERROR: Error reading session data: 
+2013-12-08 22:46:13 --- ERROR: Error reading session data: 
+2013-12-08 22:46:13 --- ERROR: Error reading session data: 
+2013-12-08 22:46:29 --- ERROR: Error reading session data: 
+2013-12-08 22:46:31 --- ERROR: Error reading session data: 
+2013-12-08 22:47:14 --- ERROR: Error reading session data: 
+2013-12-08 22:47:16 --- ERROR: Error reading session data: 
+2013-12-08 22:47:44 --- ERROR: Error reading session data: 
+2013-12-08 22:47:45 --- ERROR: Error reading session data: 
+2013-12-08 22:47:47 --- ERROR: Error reading session data: 
+2013-12-08 22:47:55 --- ERROR: Error reading session data: 
+2013-12-08 22:48:09 --- ERROR: Error reading session data: 
+2013-12-08 22:48:20 --- ERROR: Error reading session data: 
+2013-12-08 22:48:21 --- ERROR: Error reading session data: 
+2013-12-08 22:48:21 --- ERROR: Error reading session data: 
+2013-12-08 22:48:50 --- ERROR: Error reading session data: 
+2013-12-08 22:48:50 --- ERROR: Error reading session data: 
+2013-12-08 22:48:52 --- ERROR: Error reading session data: 
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:55 --- ERROR: Error reading session data: 
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:48:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:08 --- ERROR: Error reading session data: 
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/jquery.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-transition.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-alert.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-modal.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-dropdown.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-scrollspy.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tab.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-popover.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-tooltip.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-button.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-collapse.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-carousel.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
+2013-12-08 22:50:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/bootstrap/js/bootstrap-typeahead.js ~ SYSPATH/classes/kohana/request.php [ 690 ]
